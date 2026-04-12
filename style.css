@@ -47,10 +47,9 @@ nav {
 }
 
 .nav-brand a {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.2rem;
-  font-weight: 600;
-  color: #111;
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #000;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   text-decoration: none;
@@ -70,10 +69,9 @@ nav {
 }
 
 .nav-links li a {
-  font-family: 'Roboto', sans-serif;
   font-size: 1rem;
   font-weight: 400;
-  color: #777;
+  color: #444;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   text-decoration: none;
