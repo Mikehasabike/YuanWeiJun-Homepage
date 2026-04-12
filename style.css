@@ -187,11 +187,11 @@ main {
 
 .home-hero-photo img {
   width: 100%;
-  aspect-ratio: 3/4;
+  aspect-ratio: 1/1;       /* square */
   object-fit: cover;
   display: block;
   filter: grayscale(8%);
-  border-radius: 16px;
+  border-radius: 20px;     /* rounded corners */
 }
 
 .profile-social {
