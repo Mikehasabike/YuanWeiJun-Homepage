@@ -23,6 +23,7 @@ body {
 
 a {
   color: #D97757;
+  font-weight: 500;
   text-decoration: none;
   transition: color 0.15s;
 }
@@ -254,12 +255,18 @@ section p:last-child {
 
 section p a {
   color: #D97757;
-  font-weight: 400;
+  font-weight: 500;
   text-decoration: none;
 }
 
 section p a:hover {
   color: #b85e3a;
+}
+
+/* ===== Inline Highlights ===== */   ← ADD HERE
+.highlight {
+  color: #D97757;
+  font-weight: 500;
 }
 
 /* ===== Experience / Timeline entries ===== */
@@ -692,6 +699,7 @@ section p a:hover {
 .connect-office-hours {
   margin-bottom: 3rem;
   padding-bottom: 2rem;
+  font-weight: 500;
   border-bottom: 1px solid #eee;
 }
 
