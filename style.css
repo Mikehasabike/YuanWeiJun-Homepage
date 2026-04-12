@@ -23,7 +23,7 @@ body {
 
 a {
   color: #D97757;
-  font-weight: 500;
+  font-weight: 400;
   text-decoration: none;
   transition: color 0.15s;
 }
@@ -48,8 +48,8 @@ nav {
 
 .nav-brand a {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.7rem;
-  font-weight: 800;
+  font-size: 1.2rem;
+  font-weight: 500;
   color: #111;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -72,7 +72,7 @@ nav {
 .nav-links li a {
   font-family: 'Roboto', sans-serif;
   font-size: 1.2rem;
-  font-weight: 600;
+  font-weight: 500;
   color: #777;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -140,7 +140,7 @@ main {
 .section-title {
   font-family: 'Roboto', sans-serif;
   font-size: 0.68rem;
-  font-weight: 600;
+  font-weight: 400;
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: #aaa;
@@ -255,7 +255,7 @@ section p:last-child {
 
 section p a {
   color: #D97757;
-  font-weight: 500;
+  font-weight: 400;
   text-decoration: none;
 }
 
@@ -266,7 +266,7 @@ section p a:hover {
 /* ===== Inline Highlights ===== */ 
 .highlight {
   color: #D97757;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .italic {
