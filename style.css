@@ -269,6 +269,10 @@ section p a:hover {
   font-weight: 500;
 }
 
+.italic {
+  font-style: italic;
+}
+
 /* ===== Experience / Timeline entries ===== */
 .exp-list {
   display: flex;
