@@ -128,7 +128,7 @@ main {
 .page-header h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 1.8rem;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #111;
@@ -139,7 +139,7 @@ main {
 .section-title {
   font-family: 'Roboto', sans-serif;
   font-size: 0.68rem;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: #aaa;
@@ -164,7 +164,7 @@ main {
 .home-header h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 2.2rem;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: #111;
@@ -245,7 +245,7 @@ section p {
   color: #333;
   line-height: 1.9;
   margin-bottom: 0.85rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 section p:last-child {
@@ -595,7 +595,7 @@ section p a:hover {
   color: #444;
   line-height: 1.75;
   margin-bottom: 0.5rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .dataset-link {
@@ -659,7 +659,7 @@ section p a:hover {
   align-items: baseline;
   gap: 1rem;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .course-list li:last-child {
@@ -709,7 +709,7 @@ section p a:hover {
   color: #444;
   line-height: 1.85;
   margin-bottom: 0.8rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .connect-office-hours p:last-child {
@@ -773,7 +773,7 @@ section p a:hover {
   padding: 0.6rem 0.85rem;
   font-size: 0.9rem;
   font-family: 'Roboto', inherit;
-  font-weight: 300;
+  font-weight: 400;
   color: #222;
   outline: none;
   transition: border-color 0.15s;
@@ -821,7 +821,7 @@ footer {
   font-size: 0.76rem;
   color: #ccc;
   border-top: 1px solid #eee;
-  font-weight: 300;
+  font-weight: 400;
   letter-spacing: 0.03em;
 }
 
