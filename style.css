@@ -645,7 +645,7 @@ section p a:hover {
 
 .teaching-role {
   font-family: 'Roboto', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 500;
   letter-spacing: 0.16em;
   text-transform: uppercase;
@@ -691,7 +691,7 @@ section p a:hover {
 }
 
 .course-level {
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: #bbb;
   white-space: nowrap;
   font-weight: 400;
