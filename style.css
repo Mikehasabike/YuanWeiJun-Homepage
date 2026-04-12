@@ -22,13 +22,13 @@ body {
 }
 
 a {
-  color: #800000;
+  color: #D97757;
   text-decoration: none;
   transition: color 0.15s;
 }
 
 a:hover {
-  color: #800000;
+  color: #b85e3a;
 }
 
 /* ===== Navigation ===== */
@@ -253,13 +253,13 @@ section p:last-child {
 }
 
 section p a {
-  color: #8B6914;
+  color: #D97757;
   font-weight: 400;
   text-decoration: none;
 }
 
 section p a:hover {
-  color: #6B4F0E;
+  color: #b85e3a;
 }
 
 /* ===== Experience / Timeline entries ===== */
@@ -717,13 +717,13 @@ section p a:hover {
 }
 
 .connect-office-hours a {
-  color: #8B6914;
+  color: #D97757;
   text-decoration: none;
   font-weight: 400;
 }
 
 .connect-office-hours a:hover {
-  color: #6B4F0E;
+  color: #b85e3a;
 }
 
 /* Contact Form */
