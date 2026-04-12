@@ -191,7 +191,7 @@ main {
   object-fit: cover;
   display: block;
   filter: grayscale(8%);
-  border-radius: 20px;     /* rounded corners */
+  border-radius: 32px;     /* rounded corners */
 }
 
 .profile-social {
